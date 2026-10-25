@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mari Location Lab</string>
+    <string name="app_subtitle">Simulator QA Lokasi Resmi</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_map">Peta</string>
+    <string name="nav_scenarios">Skenario</string>
+    <string name="nav_history">Riwayat</string>
+    <string name="nav_settings">Pengaturan</string>
+</resources>
